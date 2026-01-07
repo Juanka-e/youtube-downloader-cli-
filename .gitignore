@@ -1,7 +1,5 @@
-# Node modulleri (cok yer kaplar, yuklenmez)
-node_modules/
 
-# Indirilen Medya Dosyalari (Kisisel dosyalardir, yuklenmez)
+node_modules/
 *.mp4
 *.mp3
 *.m4a
@@ -12,11 +10,7 @@ node_modules/
 *.jpg
 *.png
 *.webp
-
-# Klasorler
 Playlistlerim/
-
-# Loglar ve Sistem dosyalari
 npm-debug.log
 .DS_Store
 Thumbs.db
